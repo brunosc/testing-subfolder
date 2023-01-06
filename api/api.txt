@@ -3,3 +3,4 @@ another line
 bla bla bla
 get /v1/users
 post /v1/users
+post /v1/token
